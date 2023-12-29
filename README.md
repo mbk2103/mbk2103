@@ -30,9 +30,6 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://flowcv.com/resume/sjmfhtp707](https://flowcv.com/resume/sjmfhtp707)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
